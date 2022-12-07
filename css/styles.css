@@ -10,7 +10,9 @@ img {
 .pageTitle h1{
     color: darkblue;
     text-align: center;
-
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }
 
 .login-form {
@@ -24,6 +26,15 @@ img {
     display: flex;
     justify-content: center;
     align-content: center;
+}
+
+.login-greet {
+    background-color: lightcyan;
+    padding: 1px 5px 1px 5px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+
 }
 
 .mira {
