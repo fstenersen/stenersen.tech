@@ -6,40 +6,46 @@
         <link rel="stylesheet" href="css/styles.css" />
     </head>
     <body>
-        <div class="pageTitle">
-            <h1>- stenersen.tech -</h1>
-        </div>
+        <div class="box">
+            <div class="pageTitle">
+                <h1>- stenersen.tech -</h1>
+            </div>
 
-        <div class="login-form">
-            <form id="login">
-                <div>
-                    <div class="login-greet">
-                        <p>Venligst skriv inn brukernavn og passord!</p>
+            <div class="login-form-title">
+                <h3>Et forsøk på innlogging. Work in progress.</h3>
+            </div>
+            <div class="login-form">
+                <form id="login">
+                    <div>
+                        <div class="login-greet">
+                            <p>Venligst skriv inn brukernavn og passord!</p>
+                        </div>
+                        <label for="login-email"> Email address</label>
+                        <input type="" name="login-email" id="login-email" autofocus>
                     </div>
-                    <label for="login-email"> Email address</label>
-                    <input type="" name="login-email" id="login-email" autofocus>
-                </div>
 
-                <div>
-                    <label for="login-password">Password</label>
-                    <input type="password" name="login-password" id="login-password" autofocus>
-                </div>
+                    <div>
+                        <label for="login-password">Password</label>
+                        <input type="password" name="login-password" id="login-password" autofocus>
+                    </div>
 
-                <label for="login-remember">
-                    <input type="checkbox" name="login-remember" id="login-remember"> Remember me?
-                </label>
-                <input type="submit" value="Log in!" class="button">
-            </form>
-        </div>
+                    <label for="login-remember">
+                        <input type="checkbox" name="login-remember" id="login-remember"> Remember me?
+                    </label>
+                    <input type="submit" value="Log in!" class="button">
+                </form>
+            </div>
 
+            <div class="mira-title">
+                <h3>Leking med JS. Work in progress.</h3>
+            </div>
+            <div class="mira">
+            <button class="button" onclick="document.getElementById('myImage').src='img/Mira.jpg'">Dog!</button>
 
-        <div class="mira">
-        <button class="button" onclick="document.getElementById('myImage').src='img/Mira.jpg'">Dog!</button>
+            <img id="myImage" src="img/nothing.jpg" style="height: 200px;" alt="Mira!">
 
-        <img id="myImage" src="img/nothing.jpg" style="width:200px" alt="Mira!">
-
-        <button class="button" onclick="document.getElementById('myImage').src='img/Fuggel.jpg'">Bird!</button>
-
+            <button class="button" onclick="document.getElementById('myImage').src='img/Fuggel.jpg'">Bird!</button>
+            </div>
         </div>
 
     </body>
