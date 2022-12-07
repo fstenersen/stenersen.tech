@@ -1,5 +1,6 @@
 body {
     background-color: lightcyan;
+    font-family: "Monaco", "Courier New", monospace;
 }
 
 img {
@@ -12,6 +13,7 @@ img {
     text-align: center;
     position: -webkit-sticky; /* Safari */
     position: sticky;
+    margin-bottom: 50px;
     top: 0;
 }
 
@@ -20,7 +22,7 @@ img {
     padding: 1px 5px 1px 5px;
     border-radius: 20px;
     margin-bottom: 5px;
-    width: 400px;
+    width: 450px;
     text-align: center;
     box-shadow: 10px 10px 5px lightblue;
 }
@@ -49,7 +51,7 @@ img {
     border-radius: 20px;
     margin-bottom: 5px;
     margin-top: 50px;
-    width: 400px;
+    width: 450px;
     text-align: center;
     box-shadow: 10px 10px 5px lightblue;
 }
