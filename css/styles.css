@@ -7,8 +7,8 @@ header {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
-    background-color: antiquewhite;
-
+    background-color: lightblue;
+    border-radius: 30px;
 }
 
 img {
