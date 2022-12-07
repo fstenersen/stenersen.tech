@@ -22,6 +22,8 @@ img {
     padding: 1px 5px 1px 5px;
     border-radius: 20px;
     margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: 450px;
     text-align: center;
     box-shadow: 10px 10px 5px lightblue;
@@ -51,6 +53,8 @@ img {
     border-radius: 20px;
     margin-bottom: 5px;
     margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: 450px;
     text-align: center;
     box-shadow: 10px 10px 5px lightblue;
