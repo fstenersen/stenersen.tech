@@ -3,6 +3,14 @@ body {
     font-family: "Monaco", "Courier New", monospace;
 }
 
+header {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    background-color: antiquewhite;
+
+}
+
 img {
     border-radius: 10px;
 
@@ -11,10 +19,7 @@ img {
 .pageTitle h1{
     color: darkblue;
     text-align: center;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
     margin-bottom: 50px;
-    top: 0;
 }
 
 .login-form-title {
