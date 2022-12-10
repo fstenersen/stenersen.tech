@@ -2,7 +2,7 @@
 Mitt første forsøk på en nettside.
 
 ## 10 Desember 2022
-<img src="img/10 Des 2022.png" alt="10 Des" title="7 Des 2022">
+<img src="img/10 Des 2022.jpeg" alt="10 Des" title="7 Des 2022">
 
 ## 7 Des 2022
 <img src="img/7 Des 2022.png" alt="7 Des" title="7 Des 2022">
