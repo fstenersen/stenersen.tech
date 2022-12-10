@@ -1,5 +1,5 @@
-var dag = new Date();
-var time = dag.getHours();
+let dag = new Date();
+let time = dag.getHours();
 
 console.log("Klokken er " + time);
 

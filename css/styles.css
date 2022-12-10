@@ -1,6 +1,7 @@
 body {
-    background-color: lightcyan;
     font-family: "Monaco", "Courier New", monospace;
+    background-image: linear-gradient(60deg, darkblue, lightsalmon);
+    height: 100%;
 }
 
 header {
