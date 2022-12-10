@@ -1,7 +1,10 @@
-body {
-    font-family: "Monaco", "Courier New", monospace;
+html {
     background-image: linear-gradient(60deg, darkblue, lightsalmon);
     height: 100%;
+}
+
+body {
+    font-family: "Monaco", "Courier New", monospace;
 }
 
 header {
