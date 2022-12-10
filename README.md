@@ -4,6 +4,8 @@ Mitt første forsøk på en nettside.
 ## 10 Desember 2022
 ![10 Des 2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/10%20Des%202022.jpeg?raw=true)
 
+<img src="/img/'7 Des 2022.png" alt="7 Des" title="7 Des 2022">
+
 ## 7 Des 2022
 ![7 Des 2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/7%20Des%202022.png?raw=true)
 
