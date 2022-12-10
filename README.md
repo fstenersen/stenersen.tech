@@ -6,3 +6,7 @@ Mitt første forsøk på en nettside.
 
 - 7 Des 2022
 ![7 Des 2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/7%20Des%202022.png?raw=true)
+
+- 6 Des 2022
+![6 Des
+2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/6%20Des%202022.png?raw=true)
