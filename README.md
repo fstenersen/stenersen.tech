@@ -2,13 +2,10 @@
 Mitt første forsøk på en nettside.
 
 ## 10 Desember 2022
-![10 Des 2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/10%20Des%202022.jpeg?raw=true)
-
-<img src="img/7 Des 2022.png" alt="7 Des" title="7 Des 2022">
+<img src="img/10 Des 2022.png" alt="10 Des" title="7 Des 2022">
 
 ## 7 Des 2022
-![7 Des 2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/7%20Des%202022.png?raw=true)
+<img src="img/7 Des 2022.png" alt="7 Des" title="7 Des 2022">
 
 ## 6 Des 2022
-![6 Des
-2022](https://github.com/fstenersen/stenersen.tech/blob/main/img/6%20Des%202022.png?raw=true)
+<img src="img/6 Des 2022.png" alt="6 Des" title="6 Des 2022">
