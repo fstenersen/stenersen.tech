@@ -1,5 +1,5 @@
 # stenersen.tech
-Mitt første forsøk på en nettside.
+Mitt første forsøk på en nettside. Hovedsakelig for øving til eksamen i webteknologier.
 
 ## 10 Desember 2022
 <img src="img/10 Des 2022.jpeg" alt="10 Des" title="7 Des 2022">
